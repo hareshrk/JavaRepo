@@ -16,6 +16,5 @@ public class partofstringscomparer {
         String subs2 = s1.substring(n3,n4);
         if(subs1.equalsIgnoreCase(subs2)) System.out.println("the substrings "+subs1+" is the same");
         else System.out.println("the substrings "+subs1+" and "+subs1+" are not the same");
-        //assignment
     }
 }
